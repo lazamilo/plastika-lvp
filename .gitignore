@@ -1,0 +1,4 @@
+.DS_Store
+source/
+site/assets/fonts/*.otf
+site/assets/fonts/*.woff2
